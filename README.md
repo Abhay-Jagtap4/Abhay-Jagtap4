@@ -53,6 +53,18 @@ I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
   <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="Selenium" **alt="Selenium" width="40" height="40"/>
 </div>
 
+### :shield: Badges :
+<div>
+  <img src="https://cdn.qwiklabs.com/qigZkhvg9KqENz%2FVGMdHGLby%2FUQ%2Bhr1id2Cbp0GxSvs%3D" title="Google Cloud badge 1" alt="Google Cloud badge 1" width="120" height="70"/>&nbsp;
+  <img src="https://cdn.qwiklabs.com/3cUZzotUhC3sWESWmiP9mofbB%2BcZrrX5NiKJEGZBS%2B4%3D" title="Google Cloud badge 2" alt="Google Cloud badge 2" width="70" height="70"/>&nbsp;
+  <img src="https://cdn.qwiklabs.com/SOUHCWvev6HmfC5QztXJd%2BCkSK8%2B3WGWg%2BF%2Fww%2FfqXA%3D" title="Google Cloud badge 3" alt="Google Cloud badge 3" width="120" height="70"/>&nbsp;
+  <img src="https://cdn.qwiklabs.com/SFfmObf8ridNvpy2%2Bgn%2FazAh3SR4tXFTBhdKpT1Ocrc%3D" title="Google Cloud badge 4" alt="Google Cloud badge 4" width="120" height="70"/>&nbsp;
+  <img src="https://cdn.qwiklabs.com/ht3dxzalukepnESNH85pX%2F5ORl%2ByOrOBH2DoMJEoA7k%3D" title="Google Cloud badge 5" alt="Google Cloud badge 5" width="120" height="70"/>&nbsp;
+  <img src="https://www.holopin.io/_next/image?url=https%3A%2F%2Fassets.holopin.io%2FeyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbDhlcTN6OWMwMzU3MDlsM2Z4OTluOHg2IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0%3D&w=1920&q=75" title="hacktoberfest" alt="hacktoberfest" width="70" height="70"/>&nbsp;
+</div>
+
+- :bookmark_tabs:My Google Cloud Skills Boost Profile: [![Google Cloud Skills Boost](https://img.shields.io/badge/Google_Cloud-9cf?style=flat&logo=GoogleCloud&logoColor=white)](https://www.cloudskillsboost.google/public_profiles/b185510f-822b-4fdd-b357-1defa7f42594)
+
 ##
 
 [![Leetcode Stats](https://leetcard.jacoblin.cool/Abhay_Jagtap?border=0&radius=20&theme=nord)](https://leetcode.com/Abhay_Jagtap)
