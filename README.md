@@ -29,7 +29,9 @@
 ### :man_technologist: About Me :
 
 I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
-- :telescope: I’m studying in IIIT Vadodara and contributing to backend for building web applications.
+- :telescope: I'm a CSE pre-final student @ IIIT Vadodara.
+
+- :computer: I'm passionate about Web Dev, 😊 particularly about the MERN stack.
 
 - :zap: In my free time, I solve problems on LeetCode and read tech articles.
 
@@ -54,6 +56,12 @@ I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 ##
 
 [![Leetcode Stats](https://leetcard.jacoblin.cool/Abhay_Jagtap?border=0&radius=20&theme=nord)](https://leetcode.com/Abhay_Jagtap)
+
+##
+
+[![Abhay's github stats](https://github-readme-stats.vercel.app/api?username=Abhay-Jagtap4&count_private=true&show_icons=true&theme=radical&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats) &nbsp;
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhay-Jagtap4&layout=compact&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Abhay-Jagtap4/Abhay-Jagtap4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
