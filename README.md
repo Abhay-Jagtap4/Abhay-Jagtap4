@@ -31,7 +31,7 @@
 
 ### :man_technologist: About Me :
 
-I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> with DevOps Knowledge from India.
 - :telescope: I'm am passout of 2024 from IIIT Vadodara in Computer Science.
 
 - :computer: I'm passionate about Backend Dev, 😊 particularly about the MERN stack.
